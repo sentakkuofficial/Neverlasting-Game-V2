@@ -17,10 +17,6 @@ Single file. No dependencies. No build step.
 Kaichi Bolt · Bronze Chain · Daichi Quake · Tokasu's Vial · White Scarf · Ember Storm
 plus passives: Vigor, Swiftness, Focus, Haste, Greed, Resolve, Fortune.
 
-## Deploy to GitHub Pages (1 min)
-1. Create a new repo and upload `index.html` (and this README).
-2. Repo **Settings → Pages → Build and deployment → Source: Deploy from a branch**.
-3. Branch: `main`, folder: `/ (root)`. Save.
-4. Your game is live at (https://sentakkuofficial.github.io/Neverlasting-Game-V2/).
+## The game is live at (https://sentakkuofficial.github.io/Neverlasting-Game-V2/).
 
 That's it — `index.html` at the root is served automatically.
