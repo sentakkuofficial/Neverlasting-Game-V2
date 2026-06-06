@@ -21,6 +21,6 @@ plus passives: Vigor, Swiftness, Focus, Haste, Greed, Resolve, Fortune.
 1. Create a new repo and upload `index.html` (and this README).
 2. Repo **Settings → Pages → Build and deployment → Source: Deploy from a branch**.
 3. Branch: `main`, folder: `/ (root)`. Save.
-4. Your game is live at `[https://<your-username>.github.io/<repo-name>/`](https://sentakkuofficial.github.io/Neverlasting-Game-V2/).
+4. Your game is live at (https://sentakkuofficial.github.io/Neverlasting-Game-V2/).
 
 That's it — `index.html` at the root is served automatically.
